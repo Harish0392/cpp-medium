@@ -1,0 +1,2 @@
+# cpp-medium
+hackerrank solved
